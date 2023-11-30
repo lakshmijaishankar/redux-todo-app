@@ -1,0 +1,27 @@
+.animate-icon {
+    animation: fade-in-zozm 100ms ease 0ms 1;
+}
+
+@keyframes fade-in-zozm {
+    0% {
+        opacity: 0;
+        transform: translateY(-15px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+.animate-newtodo {
+    animation: fade-in-top 100ms ease 0ms 1;
+}
+@keyframes fade-in-top {
+    0% {
+        opacity: 0;
+        transform: translateY(-5rem);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

@@ -1,0 +1,22 @@
+.todo-top-dark-img {
+    max-height: calc(100% - 65%);
+    height: 100%;
+    background: url("../../assets/images/bg-desktop-dark.jpg") center;
+    background-size: cover;
+}
+.todo-top-light-img {
+    max-height: calc(100% - 65%);
+    height: 100%;
+    background: url(../../assets/images/bg-desktop-light.jpg) center;
+    background-size: cover;
+}
+/* .bg {
+    height: 100dvh;
+    width: 100%;
+    background-image: linear-gradient(hsl(235, 21%, 11%, 0.3), hsl(235, 21%, 11%, 0.3)),
+        url(../../assets/images/bg-desktop-dark.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+ */

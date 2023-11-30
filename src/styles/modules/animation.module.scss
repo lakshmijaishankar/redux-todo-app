@@ -1,0 +1,13 @@
+.animate-fade-in-top {
+    animation: fade-in-top 500ms ease-in-out 1;
+}
+@keyframes fade-in-top {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

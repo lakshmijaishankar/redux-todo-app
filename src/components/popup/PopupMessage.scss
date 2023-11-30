@@ -1,0 +1,14 @@
+.popup-message {
+    animation: fade-in-top 50ms ease-in-out 0ms 1;
+    text-transform: capitalize;
+}
+@keyframes fade-in-top {
+    0% {
+        opacity: 0;
+        transform: translateY(-100%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
