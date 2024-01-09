@@ -1,4 +1,8 @@
-# React + Vite
+# Todo App With React + Vite
+
+![image](https://github.com/lakshmijaishankar/redux-todo-app/assets/121218341/9e321a0f-29ef-4655-ac93-abe215a28843)
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
